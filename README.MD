@@ -10,7 +10,7 @@
 -------
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Ebook: "Olhos Digitais: Explorando a Visão Computacional com Python"
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
